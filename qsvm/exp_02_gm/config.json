@@ -1,0 +1,12 @@
+{
+    "dataset_path": "/data/isip/exp/quantum_ml/exp_0022/data/two_moons_1000.csv",
+    "output_folder": "results_qsvm",
+    "n_qubits": 2,
+    "n_shots": 1024,
+    "train_size": 200, 
+    "test_size": 100,
+    "feature_map": "ZZFeatureMap",
+    "entanglement": "linear",
+    "reps": 1,
+    "seed": 42
+}
